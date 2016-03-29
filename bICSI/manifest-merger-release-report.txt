@@ -82,7 +82,7 @@ uses-permission#org.bisci.canada2015.permission.C2D_MESSAGE
 ADDED from AndroidManifest.xml:28:6
 	android:name
 		ADDED from AndroidManifest.xml:28:23
-permission#org.bicsi.winter2016.permission.C2D_MESSAGE
+permission#org.bicsi.canada2016.permission.C2D_MESSAGE
 ADDED from AndroidManifest.xml:29:5
 	android:protectionLevel
 		ADDED from AndroidManifest.xml:31:9
@@ -259,7 +259,7 @@ ADDED from AndroidManifest.xml:185:9
 		ADDED from AndroidManifest.xml:187:13
 	android:name
 		ADDED from AndroidManifest.xml:186:13
-intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+org.bicsi.winter2016
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+org.bicsi.canada2016
 ADDED from AndroidManifest.xml:188:13
 action#com.google.android.c2dm.intent.RECEIVE
 ADDED from AndroidManifest.xml:189:17
@@ -269,7 +269,7 @@ action#com.google.android.c2dm.intent.REGISTRATION
 ADDED from AndroidManifest.xml:190:17
 	android:name
 		ADDED from AndroidManifest.xml:190:25
-category#org.bicsi.winter2016
+category#org.bicsi.canada2016
 ADDED from AndroidManifest.xml:193:17
 	android:name
 		ADDED from AndroidManifest.xml:193:27
